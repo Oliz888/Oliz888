@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-<!--
-**Oliz888/Oliz888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on social network analysis
+- 🌱 I’m currently learning LLM application on digital governance 
+- 👯 I’m looking to collaborate on investigative data journalism project 
+- 🤔 I’m looking for help with game design 
+- 💬 Ask me about music and cybernetics in governance
+- 📫 How to reach me: sz614@georgetown.edu 
+- 😄 Pronouns: They/them 🌈
+- ⚡ Fun fact: A person really love sea 🏝
+--> My skills: Programming & Tools: Python (Pandas, Sklearn, Matplotlib, Seaborn, NetworkX, Nature Language Toolkit),
+SQL (Advanced), Tableau, PowerBI, R (RCT, DID, RDD, IV), PySpark, AWS, Google Analytics, MS Office
