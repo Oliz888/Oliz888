@@ -7,6 +7,7 @@
 - 💬 Ask me about music and cybernetics in governance
 - 📫 How to reach me: sz614@georgetown.edu 
 - 😄 Pronouns: They/them 🌈
+- ⌨ Random Thoughts: [in English](https://oliz0808eth.substack.com/), [in Mandarin](https://matters.town/@sz614)
 - ⚡ Fun fact: A human really love sea 🏝 Skateboarding 🛹 Guitar 🎸 and photography 📹
 
 ### As a Data Scientist 👾 
