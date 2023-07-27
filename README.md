@@ -13,7 +13,7 @@
 - My skills: Programming & Tools: Python (Pandas, Sklearn, Matplotlib, Seaborn, NetworkX, Nature Language Toolkit),
   SQL (Advanced), Tableau, PowerBI, R (RCT, DID, RDD, IV), PySpark, AWS, Google Analytics, MS Office
 
-- Project experience:
+#### Project experience
 ##### Network Analysis of Twitter to Identify Opinion Leader, Emotion Cascade and Community Structure
 - Deployed K-core decomposition to examine the community structure, applied NLP including Name Entity
 Recognition, Sentimental Analysis and Topic Modelling on tweets to investigate the emotion cascade
