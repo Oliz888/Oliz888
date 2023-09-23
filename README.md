@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on social network analysis, Machine Learning, NLP
-- 🌱 I’m currently learning LLM application on digital governance 
+- 🤗 Welcome to [my website](https://oliz888.github.io/)
+- 🔭 I’m currently working on Social Network Analysis, Machine Learning, NLP
+- 🌱 I’m currently learning LLM application on digital governance, deep learning and reinforcement learning in autonomous system
 - 👯 I’m looking to collaborate on investigative data journalism project 
-- 🤔 I’m looking for help with game design, deep learning 
-- 💬 Ask me about music and cybernetics in governance
+- 🤔 I’m looking for help with game design, VJing
+- 💬 Ask me about dencentralized social graph, cybernetics, posthumanism, AI-governance and music production
 - 📫 How to reach me: sz614@georgetown.edu 
 - 😄 Pronouns: They/them 🌈
+- 🎵 Arranger (in Logic): post-punk, mathrock, shoegaze
 - ⌨ Random Thoughts: [in English](https://oliz0808eth.substack.com/), [in Mandarin](https://matters.town/@sz614)
 - ⚡ Fun fact: A human really love sea 🏝 Skateboarding 🛹 Guitar 🎸 and photography 📹
 
