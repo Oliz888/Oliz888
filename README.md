@@ -2,7 +2,7 @@
 
 - 🤗 Welcome to [my website](https://oliz888.github.io/)
 - 🔭 I’m currently working on Social Network Analysis, Machine Learning, NLP
-- 🌱 I’m currently learning LLM application on digital governance, deep learning and reinforcement learning in autonomous system
+- 🌱 I’m currently learning LLM application on digital governance, reinforcement learning in autonomous system
 - 👯 I’m looking to collaborate on investigative data journalism project 
 - 🤔 I’m looking for help with game design, VJing
 - 💬 Ask me about dencentralized social graph, cybernetics, posthumanism, AI-governance and music production
